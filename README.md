@@ -1,4 +1,4 @@
-# koios
+# Koios
 Koios is a machine learning package for Python. The primary purpose of the 
 project is to provide a portable implementation of a neural network.
 
